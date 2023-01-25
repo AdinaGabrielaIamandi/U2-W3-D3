@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Caterina da Vinci",
+    "author": "Robin Maxwell",
+    "year": 2009,
+    "genre": ["fiction storica", "narrativa biografica"]
+  },
+  {
+    "title": "Storia di una ladra di libri",
+    "author": "Markus Zusak",
+    "year": 2005,
+    "genre": [
+      "romanzo",
+      "letteratura per giovani adulti",
+      "fiction storica",
+      "romanzo di formazione"
+    ]
+  },
+  {
+    "title": "Mondo senza fine",
+    "author": "Ken Follett",
+    "year": 2007,
+    "genre": ["romanzo", "thriller", "fiction storica"]
+  },
+  {
+    "title": "La mano di Fatima",
+    "author": "Ildelfonso Falcones",
+    "year": 2009,
+    "genre": ["fiction storica"]
+  },
+  {
+    "title": "La verità del ghiaccio",
+    "author": "Dan Brown",
+
+    "year": 2001,
+    "genre": [
+      "romanzo",
+      "thriller",
+      "suspense",
+      "fantapolitica",
+      "thriller tecnologico"
+    ]
+  },
+  {
+    "title": "Il signore degli anelli",
+    "author": "J. R. R. Tolkien",
+
+    "year": 1954,
+    "genre": ["romanzo", "high fantasy"]
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "year": 1850,
+    "genre": [
+      "romanzo",
+      "romanzo di formazione",
+      "saga",
+      "narrativa biografica"
+    ]
+  }
+]
